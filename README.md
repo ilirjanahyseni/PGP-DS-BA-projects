@@ -13,5 +13,9 @@ Hello there! This repository showcases the technical skills and projects I've wo
 [NYC FoodHub Data Analysis](https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset) 
 
 
+### Project 2: Business Statistics
+[A/B-Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing) 
+
+
 # Feedback and Collaboration
 If you have any feedback or would like to collaborate on a project, feel free to reach out or submit a pull request.
