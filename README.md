@@ -16,4 +16,8 @@ Hello there! This repository showcases the technical skills and projects I've wo
 ### Project 2: Business Statistics
 [A/B-Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing) 
 
+## Machine Learning 
+### Project 3: Supervised Learning - Linear Regression 
+[ReCell](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell)
+
 
