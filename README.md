@@ -1,5 +1,5 @@
 # Data Science and Business Analytics Projects
-Hello there! This repository showcases the technical skills and projects I've worked on as a part of my post-graduate program in Data Science and Business Analytics.
+This repository contains the files of projects I've worked on as a part of my post-graduate program in [Data Science and Business Analytics](https://olympus.mygreatlearning.com/eportfolio)
 
 # Disclaimer
 **Academic Influence**: The problem statements in this repository have been copied from public domain sources and include available attributions and sources. Their selection is influenced by course materials and projects from my academic program.
