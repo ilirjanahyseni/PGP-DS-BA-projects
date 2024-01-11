@@ -20,4 +20,7 @@ This repository contains the files of projects I've worked on as a part of my po
 ### Project 3: Supervised Learning - Linear Regression 
 [ReCell](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell)
 
+### Project 4: Supervised Learning - Classification
+[INN Hotels](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
+
 
