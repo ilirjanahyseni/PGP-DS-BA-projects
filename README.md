@@ -23,4 +23,8 @@ This repository contains the files of projects I've worked on as a part of my po
 ### Project 4: Supervised Learning - Classification
 [INN Hotels](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
 
+### Project 5: Ensemble Techniques - Bagging, Boosting, and Stacking
+EasyVisa
+
+
 
