@@ -10,7 +10,7 @@ This repository contains the files of projects I've worked on as a part of my po
 
 # Projects Overview
 ### Project 1: Python - Foundations 
-[NYC FoodHub Data Analysis](https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset) 
+[Exploratory Data Analysis](https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset) 
 
 
 ### Project 2: Business Statistics
@@ -18,13 +18,13 @@ This repository contains the files of projects I've worked on as a part of my po
 
 ## Machine Learning 
 ### Project 3: Supervised Learning - Linear Regression 
-[ReCell](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell)
+[Multiple Linear Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell)
 
 ### Project 4: Supervised Learning - Classification
-[INN Hotels](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
+[Logistic Regression, Decision Trees](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
 
 ### Project 5: Ensemble Techniques - Bagging, Boosting, and Stacking
-EasyVisa
+[Random Forest, AdaBoost, GBM, CGM, XGBM]
 
 
 
