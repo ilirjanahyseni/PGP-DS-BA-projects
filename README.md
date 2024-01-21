@@ -24,7 +24,7 @@ This repository contains the files of projects I've worked on as a part of my po
 [Logistic Regression, Decision Trees](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
 
 ### Project 5: Ensemble Techniques - Bagging, Boosting, and Stacking
-[Random Forest, AdaBoost, GBM, CGM, XGBM]
+[Random Forest, AdaBoost, CGM, XGBM]
 
 
 
