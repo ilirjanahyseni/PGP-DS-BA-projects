@@ -26,5 +26,7 @@ This repository contains the files of projects I've worked on as a part of my po
 ### Project 5: Ensemble Techniques - Bagging, Boosting, and Stacking
 [Random Forest, AdaBoost, CGM, XGBM](https://www.kaggle.com/code/lilyhyseni/ensemble-techniques-bagging-boosting-stacking?scriptVersionId=159819339)
 
+### Project 6: Hyperparameter Tuning and Pipelining 
+[Feature Engineering, Sampling and SMOTE, Regularization, Pipelining, Model Evaluation and Cross Validation](https://www.kaggle.com/lilyhyseni/renewind-energy-tuning-pipelining-ml-models/edit)
 
 
