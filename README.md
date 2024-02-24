@@ -16,11 +16,11 @@ This repository contains the files of projects I've worked on as a part of my po
 ### Project 2: Business Statistics
 [A/B-Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing) 
 
-## Machine Learning 
-### Project 3: Supervised Learning - Linear Regression 
+## Supervised Learning 
+### Project 3: Linear Regression 
 [Multiple Linear Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell)
 
-### Project 4: Supervised Learning - Classification
+### Project 4: Classification
 [Logistic Regression, Decision Trees](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
 
 ### Project 5: Ensemble Techniques - Bagging, Boosting, and Stacking
@@ -29,4 +29,7 @@ This repository contains the files of projects I've worked on as a part of my po
 ### Project 6: Hyperparameter Tuning and Pipelining 
 [Feature Engineering, Sampling and SMOTE, Regularization, Pipelining, Model Evaluation and Cross Validation](https://www.kaggle.com/lilyhyseni/renewind-energy-tuning-pipelining-ml-models/edit)
 
+## Unsupervised Learning
 
+### Project 7: Clustering
+[K-means Clustering, Hierarchical Clustering]
