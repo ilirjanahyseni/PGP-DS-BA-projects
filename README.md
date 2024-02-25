@@ -17,8 +17,8 @@ This repository contains the files of projects I've worked on as a part of my po
 [A/B-Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing) 
 
 ## Supervised Learning 
-### Project 3: Linear Regression 
-[Multiple Linear Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell)
+### Project 3: Regression 
+[Linear Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell)
 
 ### Project 4: Classification
 [Logistic Regression, Decision Trees](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
