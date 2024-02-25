@@ -32,4 +32,4 @@ This repository contains the files of projects I've worked on as a part of my po
 ## Unsupervised Learning
 
 ### Project 7: Clustering
-[K-means Clustering, Hierarchical Clustering]
+[K-means Clustering, Hierarchical Clustering](https://www.kaggle.com/code/lilyhyseni/unsupervised-learning-trade-ahead?scriptVersionId=164179478)
