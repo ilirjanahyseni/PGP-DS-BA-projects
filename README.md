@@ -9,27 +9,38 @@ This repository contains the files of projects I've worked on as a part of my po
 **Solution Code**: The solution codes and project structures are inspired by my academic assignments and the insights provided represent my personal understanding and application of data science and analytics concepts.
 
 # Projects Overview
-### Project 1: Python - Foundations 
-[Exploratory Data Analysis](https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset) 
+### [Project 1](https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset) : Python - Foundations 
+- Exploratory Data Analysis
 
 
-### Project 2: Business Statistics
-[A/B-Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing) 
+### [Project 2](https://www.kaggle.com/code/lilyhyseni/ab-testing) : Business Statistics
+- A/B-Testing
 
 ## Supervised Learning 
-### Project 3: Regression 
-[Linear Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell)
+### [Project 3](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell): Regression 
+- Linear Regression
 
-### Project 4: Classification
-[Logistic Regression, Decision Trees](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
+### [Project 4](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification): Classification
+- Logistic Regression
+- Decision Trees
 
-### Project 5: Ensemble Techniques - Bagging, Boosting, and Stacking
-[Random Forest, AdaBoost, CGM, XGBM](https://www.kaggle.com/code/lilyhyseni/ensemble-techniques-bagging-boosting-stacking?scriptVersionId=159819339)
+### [Project 5](https://www.kaggle.com/code/lilyhyseni/ensemble-techniques-bagging-boosting-stacking?scriptVersionId=159819339): Ensemble Techniques - Bagging, Boosting, and Stacking
+- Random Forest
+- AdaBoost
+- Gradient Boost
+- XGBoost
 
-### Project 6: Hyperparameter Tuning and Pipelining 
-[Feature Engineering, Sampling and SMOTE, Regularization, Pipelining, Model Evaluation and Cross Validation](https://www.kaggle.com/lilyhyseni/renewind-energy-tuning-pipelining-ml-models/edit)
+### [Project 6](https://www.kaggle.com/lilyhyseni/renewind-energy-tuning-pipelining-ml-models/edit): Hyperparameter Tuning and Pipelining 
+- Feature Engineering
+- Imbalanced Data Treatment; SMOTE, RandomUnderSampler
+- Regularization: L1, L2
+- K-fold Cross Validation 
+- Pipelining
+
 
 ## Unsupervised Learning
 
-### Project 7: Clustering
-[K-means Clustering, Hierarchical Clustering](https://www.kaggle.com/code/lilyhyseni/unsupervised-learning-trade-ahead?scriptVersionId=164179478)
+### [Project 7](https://www.kaggle.com/code/lilyhyseni/unsupervised-learning-trade-ahead): Clustering
+- K-means Clustering
+- Hierarchical Clustering
+- Dimensionality Reduction: PCA
